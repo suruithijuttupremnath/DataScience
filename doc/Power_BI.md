@@ -7,22 +7,24 @@ Page 1: **Pie chart**
 Pie chart provides the comparision between All the datas of Narendra Modi tweets like Count of Hashtags,Count of likes, Count of Column Name,Count of time, Count of id and  Conversation_id.
 
 Page 2: **Cluster** 
-Cluster Provides the comparision between conversation_id and place.
+Cluster Provides the comparision between followers and retweets.
 
 Page 3: **TreeMap**
 TreeMap provides the TreeMap view of username and time.
 
 Page 4: **Line chart**
-Line chart provides Line chart view for Conversation_id and Location.
+Line chart provides Line chart view for followers and Location.
 
 Page 5: **stacked bar chart**
 Stacked bar chart provides Conversation_id and location.
 
 Page 6: **Area chart**
-Area chart gives the Area view for Conversation_id and Place.
+Area chart gives the Area view for hashtag and followers.
 
 Page 7: **Map**
-Map provides the Map view for the Location.
+Map provides the Map view for the Location with the data of name and likes count.
 
-Page 8: **Donut chart**
-Donut chart looks similar to Pie chart and provides the comparision between Conversation_id and Location.
+Page 8: **Area chart**
+Area chart provides the comparision between Count of likes and followers.
+
+
