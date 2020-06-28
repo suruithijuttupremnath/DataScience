@@ -1,4 +1,4 @@
-# PowerBi:
+# Power BI:
 PowerBi is Data Visualisation Tool which enables to convert Data into visual format. 
 
 In power_BI_data ,there are 8 Pages with different visualizations.
